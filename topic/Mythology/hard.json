@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which primordial deity represents the void in Greek mythology?",
+        "options": [
+            "Chaos",
+            "Nyx",
+            "Gaia",
+            "Uranus"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the name of the final battle in Norse mythology where the gods fight their last war?",
+        "options": [
+            "Ragnarok",
+            "Valhalla",
+            "Bifrost",
+            "Ginnungagap"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Who is the Aztec god of war and the sun?",
+        "options": [
+            "Quetzalcoatl",
+            "Huitzilopochtli",
+            "Tezcatlipoca",
+            "Xolotl"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In Egyptian mythology, who weighs the souls of the dead against a feather?",
+        "options": [
+            "Ra",
+            "Osiris",
+            "Anubis",
+            "Horus"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which mythological figure was condemned to hold up the sky for eternity?",
+        "options": [
+            "Atlas",
+            "Cronus",
+            "Hyperion",
+            "Hercules"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "In Hindu mythology, who is the goddess of knowledge, music, and wisdom?",
+        "options": [
+            "Lakshmi",
+            "Saraswati",
+            "Parvati",
+            "Kali"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which Mesopotamian hero sought immortality in the Epic of Gilgamesh?",
+        "options": [
+            "Enkidu",
+            "Marduk",
+            "Gilgamesh",
+            "Anu"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Who is the Greek goddess of the hunt?",
+        "options": [
+            "Athena",
+            "Demeter",
+            "Artemis",
+            "Hera"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which underworld river is known as the 'River of Forgetfulness'?",
+        "options": [
+            "Acheron",
+            "Lethe",
+            "Styx",
+            "Phlegethon"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What was the name of the dragon slain by Sigurd in Norse mythology?",
+        "options": [
+            "Nidhogg",
+            "Jormungandr",
+            "Fafnir",
+            "Fenrir"
+        ],
+        "answer": 2
+    }
+]

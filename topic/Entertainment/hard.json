@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which film director is known for movies like 'Pulp Fiction' and 'Kill Bill'?",
+        "options": [
+            "Quentin Tarantino",
+            "Martin Scorsese",
+            "Francis Ford Coppola",
+            "David Fincher"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which actor has won the most Academy Awards for acting?",
+        "options": [
+            "Jack Nicholson",
+            "Meryl Streep",
+            "Katharine Hepburn",
+            "Daniel Day-Lewis"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which 1994 movie features the line 'Life is like a box of chocolates'?",
+        "options": [
+            "Pulp Fiction",
+            "The Shawshank Redemption",
+            "Forrest Gump",
+            "The Lion King"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which film won the first-ever Academy Award for Best Picture?",
+        "options": [
+            "Wings",
+            "Sunrise",
+            "Gone with the Wind",
+            "The Jazz Singer"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which actor portrayed The Joker in 'The Dark Knight' (2008)?",
+        "options": [
+            "Joaquin Phoenix",
+            "Heath Ledger",
+            "Jared Leto",
+            "Jack Nicholson"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the name of the AI in '2001: A Space Odyssey'?",
+        "options": [
+            "J.A.R.V.I.S.",
+            "HAL 9000",
+            "TARS",
+            "GLaDOS"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which film composer has created iconic scores for movies like 'Star Wars' and 'Harry Potter'?",
+        "options": [
+            "Hans Zimmer",
+            "John Williams",
+            "Ennio Morricone",
+            "Danny Elfman"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which singer was known as the 'Prince of Motown'?",
+        "options": [
+            "Stevie Wonder",
+            "Marvin Gaye",
+            "Smokey Robinson",
+            "Lionel Richie"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which animated movie was the first to be nominated for Best Picture at the Oscars?",
+        "options": [
+            "The Lion King",
+            "Beauty and the Beast",
+            "Toy Story",
+            "Shrek"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Who was the first-ever winner of 'American Idol'?",
+        "options": [
+            "Carrie Underwood",
+            "Kelly Clarkson",
+            "Jennifer Hudson",
+            "Adam Lambert"
+        ],
+        "answer": 1
+    }
+]

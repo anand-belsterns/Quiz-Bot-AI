@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which actor played Iron Man in the Marvel Cinematic Universe?",
+        "options": [
+            "Chris Hemsworth",
+            "Chris Evans",
+            "Robert Downey Jr.",
+            "Mark Ruffalo"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which TV series is based on the books by George R.R. Martin?",
+        "options": [
+            "The Witcher",
+            "The Mandalorian",
+            "Game of Thrones",
+            "Vikings"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which movie won the Academy Award for Best Picture in 2020?",
+        "options": [
+            "Joker",
+            "1917",
+            "Parasite",
+            "Once Upon a Time in Hollywood"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which artist released the album '1989'?",
+        "options": [
+            "Adele",
+            "Taylor Swift",
+            "Beyoncé",
+            "Billie Eilish"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the name of the fictional country in 'Black Panther'?",
+        "options": [
+            "Genosha",
+            "Wakanda",
+            "Latveria",
+            "Sokovia"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which horror movie features a haunted doll named Annabelle?",
+        "options": [
+            "The Conjuring",
+            "The Exorcist",
+            "It",
+            "Hereditary"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the highest-grossing movie of all time (adjusted for inflation)?",
+        "options": [
+            "Titanic",
+            "Avatar",
+            "Avengers: Endgame",
+            "Gone with the Wind"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Who directed the movie 'Inception'?",
+        "options": [
+            "Steven Spielberg",
+            "Christopher Nolan",
+            "Quentin Tarantino",
+            "Martin Scorsese"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which TV series is set in the fictional town of Hawkins, Indiana?",
+        "options": [
+            "Supernatural",
+            "Riverdale",
+            "Stranger Things",
+            "The X-Files"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which singer is known as the 'Queen of Pop'?",
+        "options": [
+            "Madonna",
+            "Whitney Houston",
+            "Mariah Carey",
+            "Celine Dion"
+        ],
+        "answer": 0
+    }
+]

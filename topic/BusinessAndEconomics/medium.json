@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is the term for the total value of all goods and services produced in a country within a year?",
+        "options": [
+            "Net National Product",
+            "Gross Domestic Product",
+            "Consumer Price Index",
+            "Inflation Rate"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which economic indicator measures the change in prices of goods and services?",
+        "options": [
+            "Inflation",
+            "Interest Rate",
+            "Unemployment Rate",
+            "Fiscal Policy"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What does the law of demand state?",
+        "options": [
+            "As price increases, demand decreases",
+            "As price increases, demand increases",
+            "Supply creates demand",
+            "Demand creates supply"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the primary role of central banks like the Federal Reserve?",
+        "options": [
+            "Collect taxes",
+            "Control inflation and monetary policy",
+            "Print newspapers",
+            "Regulate trade"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which financial statement shows a company’s assets, liabilities, and equity?",
+        "options": [
+            "Income Statement",
+            "Balance Sheet",
+            "Cash Flow Statement",
+            "Profit & Loss Statement"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is a stock market index?",
+        "options": [
+            "A list of all companies in the stock market",
+            "A measure of stock market performance",
+            "A type of financial instrument",
+            "A company’s profit margin"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which business strategy involves setting a low price to attract customers?",
+        "options": [
+            "Price Skimming",
+            "Penetration Pricing",
+            "Premium Pricing",
+            "Cost-Plus Pricing"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which factor does NOT directly affect supply in an economy?",
+        "options": [
+            "Production costs",
+            "Technology",
+            "Consumer demand",
+            "Government regulations"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of a SWOT analysis in business?",
+        "options": [
+            "To measure sales growth",
+            "To assess strengths, weaknesses, opportunities, and threats",
+            "To increase production efficiency",
+            "To calculate market share"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is a merger?",
+        "options": [
+            "A business going bankrupt",
+            "Two companies combining into one",
+            "A company outsourcing work",
+            "A new business entering the market"
+        ],
+        "answer": 1
+    }
+]

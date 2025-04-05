@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What does DNA stand for?",
+        "options": [
+            "Deoxyribonucleic Acid",
+            "Dynamic Nucleus Acid",
+            "Diatomic Nitrogen Acid",
+            "Deoxy Neurological Acid"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which gas is most abundant in Earth's atmosphere?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the unit of electrical resistance?",
+        "options": [
+            "Watt",
+            "Ohm",
+            "Volt",
+            "Ampere"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Who discovered gravity?",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Stephen Hawking"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which part of the human brain controls balance and coordination?",
+        "options": [
+            "Cerebrum",
+            "Cerebellum",
+            "Medulla",
+            "Thalamus"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the function of white blood cells?",
+        "options": [
+            "Transport Oxygen",
+            "Fight Infections",
+            "Store Energy",
+            "Produce Hormones"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the name of the first artificial satellite launched into space?",
+        "options": [
+            "Apollo 11",
+            "Sputnik 1",
+            "Voyager 1",
+            "Hubble"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which programming language is often used for Artificial Intelligence?",
+        "options": [
+            "Python",
+            "JavaScript",
+            "C++",
+            "HTML"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What type of energy is produced by the sun?",
+        "options": [
+            "Thermal",
+            "Nuclear",
+            "Solar",
+            "Wind"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Newton",
+            "Joule",
+            "Pascal",
+            "Watt"
+        ],
+        "answer": 0
+    }
+]

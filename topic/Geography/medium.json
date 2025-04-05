@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which country has the most natural lakes?",
+        "options": [
+            "United States",
+            "Canada",
+            "Russia",
+            "India"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which European country shares the longest border with Germany?",
+        "options": [
+            "France",
+            "Poland",
+            "Austria",
+            "Netherlands"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which line divides the Earth into Northern and Southern Hemispheres?",
+        "options": [
+            "Prime Meridian",
+            "Tropic of Cancer",
+            "Equator",
+            "International Date Line"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which African country has the largest population?",
+        "options": [
+            "South Africa",
+            "Nigeria",
+            "Egypt",
+            "Kenya"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which country has the most volcanoes?",
+        "options": [
+            "Japan",
+            "Indonesia",
+            "United States",
+            "Philippines"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which river flows through Egypt?",
+        "options": [
+            "Amazon",
+            "Nile",
+            "Ganges",
+            "Danube"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the smallest country in the world by land area?",
+        "options": [
+            "Monaco",
+            "Vatican City",
+            "San Marino",
+            "Liechtenstein"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which country is home to the Great Barrier Reef?",
+        "options": [
+            "Brazil",
+            "Australia",
+            "Indonesia",
+            "Philippines"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the highest waterfall in the world?",
+        "options": [
+            "Niagara Falls",
+            "Victoria Falls",
+            "Angel Falls",
+            "Iguazu Falls"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which two continents are entirely in the Southern Hemisphere?",
+        "options": [
+            "South America and Africa",
+            "Australia and Antarctica",
+            "Asia and Australia",
+            "Europe and South America"
+        ],
+        "answer": 1
+    }
+]

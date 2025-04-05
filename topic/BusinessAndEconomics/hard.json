@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is the Phillips Curve?",
+        "options": [
+            "The relationship between inflation and unemployment",
+            "A model of consumer behavior",
+            "A theory of government spending",
+            "A formula for GDP calculation"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the Laffer Curve used to illustrate?",
+        "options": [
+            "The relationship between tax rates and tax revenue",
+            "The effect of monetary policy",
+            "The trade balance of a country",
+            "The equilibrium price of goods"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which theory explains the benefits of countries specializing in production?",
+        "options": [
+            "Keynesian Economics",
+            "Comparative Advantage",
+            "Monetarism",
+            "Supply-Side Economics"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which financial metric measures a company's profitability relative to its total assets?",
+        "options": [
+            "Net Profit Margin",
+            "Return on Assets (ROA)",
+            "Debt-to-Equity Ratio",
+            "Cash Flow Ratio"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What does Keynesian economics emphasize?",
+        "options": [
+            "Minimal government intervention",
+            "Government intervention to stabilize the economy",
+            "The importance of gold in currency valuation",
+            "The effectiveness of a barter system"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the primary goal of fiscal policy?",
+        "options": [
+            "To control inflation",
+            "To regulate stock markets",
+            "To reduce trade deficits",
+            "To increase international trade"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is a Ponzi scheme?",
+        "options": [
+            "A legal business strategy",
+            "An illegal investment fraud",
+            "A type of cryptocurrency",
+            "A method of corporate governance"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What does 'moral hazard' refer to in economics?",
+        "options": [
+            "A company’s responsibility to society",
+            "Risk-taking due to protection from consequences",
+            "Unethical corporate behavior",
+            "Price manipulation in markets"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of these economic theories is associated with Friedrich Hayek?",
+        "options": [
+            "Keynesian Economics",
+            "Austrian Economics",
+            "Marxist Economics",
+            "Mercantilism"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is stagflation?",
+        "options": [
+            "A period of high inflation and high unemployment",
+            "A period of economic boom",
+            "A time of low government spending",
+            "A rapid increase in GDP"
+        ],
+        "answer": 0
+    }
+]

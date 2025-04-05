@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which treaty ended World War I?",
+        "options": [
+            "Treaty of Versailles",
+            "Treaty of Paris",
+            "Treaty of Ghent",
+            "Treaty of Tordesillas"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Who was the British Prime Minister during most of World War II?",
+        "options": [
+            "Winston Churchill",
+            "Neville Chamberlain",
+            "Margaret Thatcher",
+            "Tony Blair"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What year did the French Revolution begin?",
+        "options": [
+            "1756",
+            "1789",
+            "1815",
+            "1848"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which battle marked Napoleon’s final defeat?",
+        "options": [
+            "Battle of Leipzig",
+            "Battle of Austerlitz",
+            "Battle of Trafalgar",
+            "Battle of Waterloo"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which U.S. President abolished slavery?",
+        "options": [
+            "George Washington",
+            "Thomas Jefferson",
+            "Abraham Lincoln",
+            "Theodore Roosevelt"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What was the name of the first successful English colony in America?",
+        "options": [
+            "Plymouth",
+            "Jamestown",
+            "Roanoke",
+            "New Amsterdam"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Who was the leader of the Soviet Union during World War II?",
+        "options": [
+            "Vladimir Lenin",
+            "Joseph Stalin",
+            "Nikita Khrushchev",
+            "Leon Trotsky"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which empire was ruled by Genghis Khan?",
+        "options": [
+            "Ottoman Empire",
+            "Roman Empire",
+            "Mongol Empire",
+            "Persian Empire"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Who was the first man to step on the moon?",
+        "options": [
+            "Buzz Aldrin",
+            "Yuri Gagarin",
+            "Neil Armstrong",
+            "John Glenn"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which country was known as Persia before changing its name in 1935?",
+        "options": [
+            "Turkey",
+            "Iran",
+            "Iraq",
+            "Syria"
+        ],
+        "answer": 1
+    }
+]

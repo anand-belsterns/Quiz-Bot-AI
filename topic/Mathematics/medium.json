@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is the square root of 144?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "If a = 3 and b = 4, what is the value of a² + b²?",
+        "options": [
+            "9",
+            "12",
+            "16",
+            "25"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the sum of the first 10 natural numbers?",
+        "options": [
+            "50",
+            "55",
+            "60",
+            "65"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the value of 7! (7 factorial)?",
+        "options": [
+            "720",
+            "2520",
+            "5040",
+            "10080"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the cube of 5?",
+        "options": [
+            "25",
+            "50",
+            "125",
+            "150"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A right-angled triangle has sides of 3 cm and 4 cm. What is the hypotenuse?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the area of a circle with radius 7 cm? (Use π ≈ 3.14)",
+        "options": [
+            "153.86",
+            "143.98",
+            "157.08",
+            "148.95"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the logarithm of 1000 to base 10?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "If f(x) = 2x + 3, what is f(5)?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the sum of the interior angles of a pentagon?",
+        "options": [
+            "360°",
+            "540°",
+            "720°",
+            "900°"
+        ],
+        "answer": 1
+    }
+]

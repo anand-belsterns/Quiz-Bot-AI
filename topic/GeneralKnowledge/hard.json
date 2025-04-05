@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which scientist developed the theory of relativity?",
+        "options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Galileo Galilei",
+            "Stephen Hawking"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which metal is liquid at room temperature?",
+        "options": [
+            "Mercury",
+            "Gold",
+            "Silver",
+            "Lead"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Who is known as the father of modern computers?",
+        "options": [
+            "Alan Turing",
+            "Charles Babbage",
+            "John von Neumann",
+            "Steve Jobs"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Canada?",
+        "options": [
+            "Toronto",
+            "Vancouver",
+            "Ottawa",
+            "Montreal"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which organ in the human body produces insulin?",
+        "options": [
+            "Liver",
+            "Heart",
+            "Pancreas",
+            "Lungs"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the smallest unit of life?",
+        "options": [
+            "Atom",
+            "Cell",
+            "Molecule",
+            "Organ"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the square root of 144?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "options": [
+            "Marie Curie",
+            "Alexander Fleming",
+            "Louis Pasteur",
+            "Joseph Lister"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which element has the highest melting point?",
+        "options": [
+            "Iron",
+            "Titanium",
+            "Tungsten",
+            "Platinum"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which mountain is the highest in the world?",
+        "options": [
+            "Mount Kilimanjaro",
+            "Mount Everest",
+            "K2",
+            "Mount Elbrus"
+        ],
+        "answer": 1
+    }
+]

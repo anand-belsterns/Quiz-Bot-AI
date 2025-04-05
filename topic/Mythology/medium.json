@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What was the punishment of Prometheus for giving fire to humans?",
+        "options": [
+            "Banished to Tartarus",
+            "Turned into stone",
+            "Chained to a rock and eaten by an eagle",
+            "Cursed to wander the earth"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which Hindu god is known as the destroyer?",
+        "options": [
+            "Brahma",
+            "Vishnu",
+            "Shiva",
+            "Indra"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Who was the first woman in Greek mythology, created by the gods?",
+        "options": [
+            "Eurydice",
+            "Pandora",
+            "Persephone",
+            "Hestia"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which creature in Greek mythology had the head of a bull and the body of a man?",
+        "options": [
+            "Centaur",
+            "Chimera",
+            "Minotaur",
+            "Satyr"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the name of the three-headed dog that guards the underworld?",
+        "options": [
+            "Cerberus",
+            "Gorgon",
+            "Hydra",
+            "Charybdis"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "In Norse mythology, who is the trickster god?",
+        "options": [
+            "Odin",
+            "Loki",
+            "Thor",
+            "Tyr"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the name of the Japanese sun goddess?",
+        "options": [
+            "Izanami",
+            "Susanoo",
+            "Amaterasu",
+            "Raijin"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which Greek hero completed twelve labors as punishment for killing his family?",
+        "options": [
+            "Theseus",
+            "Achilles",
+            "Hercules",
+            "Perseus"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which Celtic god is associated with the harvest and the underworld?",
+        "options": [
+            "Lugh",
+            "Dagda",
+            "Morrigan",
+            "Brigid"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Who is the Norse god of the sea?",
+        "options": [
+            "Thor",
+            "Njord",
+            "Tyr",
+            "Fenrir"
+        ],
+        "answer": 1
+    }
+]

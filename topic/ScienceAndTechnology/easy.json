@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What planet is known as the Red Planet?",
+        "options": [
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Venus"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": [
+            "O2",
+            "H2O",
+            "CO2",
+            "NaCl"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which organ in the human body pumps blood?",
+        "options": [
+            "Liver",
+            "Brain",
+            "Heart",
+            "Lungs"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What gas do humans breathe in to survive?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Hydrogen",
+            "Nitrogen"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which invention is Thomas Edison famous for?",
+        "options": [
+            "Telephone",
+            "Light Bulb",
+            "Airplane",
+            "Radio"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the primary function of the CPU in a computer?",
+        "options": [
+            "Storage",
+            "Processing",
+            "Cooling",
+            "Display"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which part of the plant absorbs water?",
+        "options": [
+            "Leaves",
+            "Roots",
+            "Stem",
+            "Flowers"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "How many legs does a spider have?",
+        "options": [
+            "4",
+            "6",
+            "8",
+            "10"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "options": [
+            "Nucleus",
+            "Mitochondria",
+            "Ribosome",
+            "Cytoplasm"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which planet is the largest in the Solar System?",
+        "options": [
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "answer": 2
+    }
+]

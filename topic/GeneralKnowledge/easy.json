@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is the capital of the United Kingdom?",
+        "options": [
+            "London",
+            "Paris",
+            "Berlin",
+            "Madrid"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "How many continents are there on Earth?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which animal is known as the King of the Jungle?",
+        "options": [
+            "Tiger",
+            "Elephant",
+            "Lion",
+            "Giraffe"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which is the largest planet in the solar system?",
+        "options": [
+            "Mars",
+            "Jupiter",
+            "Saturn",
+            "Earth"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is H2O commonly known as?",
+        "options": [
+            "Hydrogen",
+            "Oxygen",
+            "Water",
+            "Salt"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which country is famous for pizza and pasta?",
+        "options": [
+            "France",
+            "Italy",
+            "Spain",
+            "Greece"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "How many days are there in a leap year?",
+        "options": [
+            "365",
+            "366",
+            "364",
+            "367"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which shape has three sides?",
+        "options": [
+            "Square",
+            "Rectangle",
+            "Triangle",
+            "Pentagon"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which color appears on the top of a rainbow?",
+        "options": [
+            "Red",
+            "Blue",
+            "Green",
+            "Yellow"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the opposite of 'cold'?",
+        "options": [
+            "Warm",
+            "Freeze",
+            "Hot",
+            "Cool"
+        ],
+        "answer": 2
+    }
+]

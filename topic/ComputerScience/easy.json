@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What does CPU stand for?",
+        "options": [
+            "Central Processing Unit",
+            "Computer Personal Unit",
+            "Central Process Unit",
+            "Central Peripheral Unit"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which programming language is often used for web development?",
+        "options": [
+            "Python",
+            "C++",
+            "JavaScript",
+            "Swift"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What does HTML stand for?",
+        "options": [
+            "Hyper Text Markup Language",
+            "High Tech Machine Learning",
+            "Hyperlink and Text Management Language",
+            "Home Tool Markup Language"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is an operating system?",
+        "options": [
+            "Microsoft Word",
+            "Linux",
+            "Google Chrome",
+            "Python"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which key combination is used to copy text in most operating systems?",
+        "options": [
+            "Ctrl + C",
+            "Alt + C",
+            "Shift + C",
+            "Ctrl + V"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which company developed the Windows operating system?",
+        "options": [
+            "Apple",
+            "Microsoft",
+            "Google",
+            "IBM"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which storage device is commonly used for long-term data storage?",
+        "options": [
+            "RAM",
+            "SSD",
+            "Cache",
+            "Registers"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which protocol is used for sending emails?",
+        "options": [
+            "HTTP",
+            "SMTP",
+            "FTP",
+            "TCP"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which part of the computer is considered its 'brain'?",
+        "options": [
+            "RAM",
+            "Hard Drive",
+            "CPU",
+            "Power Supply"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of these is an example of a web browser?",
+        "options": [
+            "Google Chrome",
+            "Microsoft Excel",
+            "Adobe Photoshop",
+            "Windows Explorer"
+        ],
+        "answer": 0
+    }
+]

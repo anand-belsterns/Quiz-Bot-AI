@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which Formula 1 driver has won the most World Championships?",
+        "options": [
+            "Michael Schumacher",
+            "Lewis Hamilton",
+            "Ayrton Senna",
+            "Sebastian Vettel"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which country has won the most Olympic gold medals in history?",
+        "options": [
+            "China",
+            "USA",
+            "Russia",
+            "Germany"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the longest race in the Olympics?",
+        "options": [
+            "800m",
+            "5000m",
+            "Marathon",
+            "10,000m"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which boxer was known as 'The Greatest'?",
+        "options": [
+            "Mike Tyson",
+            "Muhammad Ali",
+            "Floyd Mayweather",
+            "Sugar Ray Leonard"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which country has won the most Rugby World Cups?",
+        "options": [
+            "Australia",
+            "South Africa",
+            "New Zealand",
+            "England"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which two teams played in the 'Hand of God' match in the 1986 FIFA World Cup?",
+        "options": [
+            "Brazil vs Italy",
+            "Germany vs Argentina",
+            "England vs Argentina",
+            "France vs Spain"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which athlete is the only one to have won Olympic gold medals in both the 100m and 200m in three consecutive Olympics?",
+        "options": [
+            "Carl Lewis",
+            "Usain Bolt",
+            "Jesse Owens",
+            "Michael Johnson"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Who is the first female gymnast to score a perfect 10 in the Olympics?",
+        "options": [
+            "Simone Biles",
+            "Nadia Comaneci",
+            "Shannon Miller",
+            "Olga Korbut"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which football club has won the most UEFA Champions League titles?",
+        "options": [
+            "Manchester United",
+            "Bayern Munich",
+            "Real Madrid",
+            "Barcelona"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Who holds the record for the most home runs in MLB history?",
+        "options": [
+            "Hank Aaron",
+            "Babe Ruth",
+            "Barry Bonds",
+            "Alex Rodriguez"
+        ],
+        "answer": 2
+    }
+]

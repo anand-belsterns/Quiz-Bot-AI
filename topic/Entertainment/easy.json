@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Who is known as the 'King of Pop'?",
+        "options": [
+            "Elvis Presley",
+            "Michael Jackson",
+            "Prince",
+            "Justin Bieber"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which movie features the song 'Let It Go'?",
+        "options": [
+            "Frozen",
+            "Moana",
+            "Tangled",
+            "The Lion King"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the name of the wizarding school in Harry Potter?",
+        "options": [
+            "Beauxbatons",
+            "Ilvermorny",
+            "Durmstrang",
+            "Hogwarts"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which superhero is also known as the 'Caped Crusader'?",
+        "options": [
+            "Superman",
+            "Batman",
+            "Spider-Man",
+            "Iron Man"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which TV series follows a group of friends at Central Perk?",
+        "options": [
+            "How I Met Your Mother",
+            "Friends",
+            "The Big Bang Theory",
+            "Brooklyn Nine-Nine"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which actress played the lead role in 'Wonder Woman' (2017)?",
+        "options": [
+            "Scarlett Johansson",
+            "Gal Gadot",
+            "Margot Robbie",
+            "Anne Hathaway"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which band performed the song 'Bohemian Rhapsody'?",
+        "options": [
+            "The Beatles",
+            "Queen",
+            "Led Zeppelin",
+            "Pink Floyd"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the name of the main character in 'The Simpsons'?",
+        "options": [
+            "Homer",
+            "Bart",
+            "Marge",
+            "Lisa"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which streaming service is known for series like 'Stranger Things' and 'The Witcher'?",
+        "options": [
+            "HBO Max",
+            "Hulu",
+            "Disney+",
+            "Netflix"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Who played Jack in the movie 'Titanic'?",
+        "options": [
+            "Tom Cruise",
+            "Leonardo DiCaprio",
+            "Brad Pitt",
+            "Johnny Depp"
+        ],
+        "answer": 1
+    }
+]

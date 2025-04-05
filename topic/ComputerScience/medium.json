@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is the time complexity of binary search?",
+        "options": [
+            "O(n)",
+            "O(n log n)",
+            "O(log n)",
+            "O(1)"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which data structure follows the LIFO principle?",
+        "options": [
+            "Queue",
+            "Stack",
+            "Heap",
+            "Linked List"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the full form of SQL?",
+        "options": [
+            "Structured Query Language",
+            "Sequential Query Language",
+            "Server Query Language",
+            "Standard Query Language"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which sorting algorithm has the worst-case time complexity of O(n²)?",
+        "options": [
+            "Merge Sort",
+            "Quick Sort",
+            "Bubble Sort",
+            "Heap Sort"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which logic gate outputs true only when both inputs are true?",
+        "options": [
+            "OR",
+            "AND",
+            "XOR",
+            "NOR"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What does RAM stand for?",
+        "options": [
+            "Random Access Memory",
+            "Read Access Memory",
+            "Random Allocated Memory",
+            "Read And Modify"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the function of an IP address?",
+        "options": [
+            "To store data",
+            "To identify devices on a network",
+            "To run applications",
+            "To encrypt messages"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What does the term 'Big O notation' describe?",
+        "options": [
+            "Memory usage",
+            "Data size",
+            "Algorithm efficiency",
+            "Programming errors"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of these programming paradigms is used in Object-Oriented Programming?",
+        "options": [
+            "Functional",
+            "Declarative",
+            "Procedural",
+            "Encapsulation"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which programming language is commonly used for AI and machine learning?",
+        "options": [
+            "Python",
+            "C",
+            "Ruby",
+            "Swift"
+        ],
+        "answer": 0
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is the purpose of a Turing Machine?",
+        "options": [
+            "To solve linear equations",
+            "To perform arithmetic calculations",
+            "To model a general-purpose computer",
+            "To store large amounts of data"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which algorithm is used in public-key cryptography?",
+        "options": [
+            "Bubble Sort",
+            "RSA",
+            "Depth First Search",
+            "A* Algorithm"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What does ACID stand for in database systems?",
+        "options": [
+            "Automated, Concurrent, Integrated, Distributed",
+            "Atomicity, Consistency, Isolation, Durability",
+            "Access, Control, Integrity, Data",
+            "Analysis, Compression, Indexing, Data"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which machine learning model is used for classification problems?",
+        "options": [
+            "K-Means Clustering",
+            "Linear Regression",
+            "Decision Tree",
+            "PageRank"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which problem is considered NP-complete?",
+        "options": [
+            "Binary Search",
+            "Sorting",
+            "Traveling Salesman Problem",
+            "Matrix Multiplication"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of a context switch in operating systems?",
+        "options": [
+            "To increase CPU speed",
+            "To allocate memory to processes",
+            "To switch the CPU from one process to another",
+            "To manage user input"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which programming language was developed at Bell Labs in the 1970s?",
+        "options": [
+            "Python",
+            "C",
+            "Java",
+            "Fortran"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What does the Halting Problem state?",
+        "options": [
+            "That all programs eventually terminate",
+            "That no program can determine whether another arbitrary program halts",
+            "That recursion is inefficient",
+            "That some algorithms are always infinite"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the role of a compiler?",
+        "options": [
+            "To execute programs",
+            "To translate source code into machine code",
+            "To store data",
+            "To connect networks"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which networking model has seven layers?",
+        "options": [
+            "TCP/IP",
+            "OSI",
+            "HTTP",
+            "DNS"
+        ],
+        "answer": 1
+    }
+]

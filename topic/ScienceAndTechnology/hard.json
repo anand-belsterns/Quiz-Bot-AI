@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Who is known as the father of modern genetics?",
+        "options": [
+            "Charles Darwin",
+            "Gregor Mendel",
+            "James Watson",
+            "Francis Crick"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which particle is responsible for electricity?",
+        "options": [
+            "Neutron",
+            "Proton",
+            "Electron",
+            "Photon"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the most abundant element in the universe?",
+        "options": [
+            "Oxygen",
+            "Carbon",
+            "Hydrogen",
+            "Helium"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which planet has the strongest gravity in the Solar System?",
+        "options": [
+            "Earth",
+            "Jupiter",
+            "Neptune",
+            "Saturn"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Who invented the World Wide Web (WWW)?",
+        "options": [
+            "Bill Gates",
+            "Tim Berners-Lee",
+            "Steve Jobs",
+            "Linus Torvalds"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the name of the first cloned mammal?",
+        "options": [
+            "Molly",
+            "Dolly",
+            "Polly",
+            "Lily"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which telescope provided the first image of a black hole?",
+        "options": [
+            "Hubble",
+            "Chandra",
+            "James Webb",
+            "Event Horizon Telescope"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which programming language is primarily used for quantum computing?",
+        "options": [
+            "Q#",
+            "Python",
+            "Java",
+            "C++"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What does 'HTTP' stand for in website URLs?",
+        "options": [
+            "Hyper Transfer Text Protocol",
+            "Hypertext Transfer Protocol",
+            "Hyperlink Transport Process",
+            "Hyper Tech Protocol"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the term for materials that conduct electricity with zero resistance at very low temperatures?",
+        "options": [
+            "Superconductors",
+            "Semiconductors",
+            "Insulators",
+            "Conductors"
+        ],
+        "answer": 0
+    }
+]

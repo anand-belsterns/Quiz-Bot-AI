@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is the capital of the United States?",
+        "options": [
+            "New York",
+            "Los Angeles",
+            "Washington, D.C.",
+            "Chicago"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which is the largest continent by land area?",
+        "options": [
+            "Africa",
+            "Europe",
+            "Asia",
+            "North America"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the longest river in the world?",
+        "options": [
+            "Amazon River",
+            "Nile River",
+            "Yangtze River",
+            "Mississippi River"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which ocean is the largest?",
+        "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Pacific Ocean",
+            "Arctic Ocean"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Mount Everest is located in which mountain range?",
+        "options": [
+            "Andes",
+            "Rockies",
+            "Himalayas",
+            "Alps"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which desert is the largest in the world?",
+        "options": [
+            "Sahara Desert",
+            "Gobi Desert",
+            "Antarctic Desert",
+            "Kalahari Desert"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of France?",
+        "options": [
+            "Rome",
+            "Paris",
+            "Berlin",
+            "Madrid"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": [
+            "China",
+            "Japan",
+            "South Korea",
+            "Thailand"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "How many continents are there in the world?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which U.S. state is the largest by area?",
+        "options": [
+            "Texas",
+            "California",
+            "Alaska",
+            "Montana"
+        ],
+        "answer": 2
+    }
+]

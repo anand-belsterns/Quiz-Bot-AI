@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which treaty divided South America between Spain and Portugal in 1494?",
+        "options": [
+            "Treaty of Tordesillas",
+            "Treaty of Versailles",
+            "Treaty of Utrecht",
+            "Treaty of Westphalia"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Who was the last Czar of Russia?",
+        "options": [
+            "Peter the Great",
+            "Alexander II",
+            "Nicholas II",
+            "Ivan the Terrible"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which country was the first to grant women the right to vote?",
+        "options": [
+            "United States",
+            "United Kingdom",
+            "New Zealand",
+            "Canada"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which civilization built Machu Picchu?",
+        "options": [
+            "Aztec",
+            "Inca",
+            "Maya",
+            "Olmec"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which U.S. President was involved in the Watergate scandal?",
+        "options": [
+            "Richard Nixon",
+            "Gerald Ford",
+            "Jimmy Carter",
+            "Lyndon B. Johnson"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The Opium Wars were fought between China and which country?",
+        "options": [
+            "France",
+            "United Kingdom",
+            "Japan",
+            "United States"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which ancient document limited the power of the English monarchy in 1215?",
+        "options": [
+            "Bill of Rights",
+            "Magna Carta",
+            "Declaration of Independence",
+            "Constitution"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Who was the longest-reigning British monarch before Queen Elizabeth II?",
+        "options": [
+            "Queen Victoria",
+            "King George III",
+            "King Henry VIII",
+            "Queen Mary I"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which war is also known as The Great War?",
+        "options": [
+            "World War I",
+            "World War II",
+            "Cold War",
+            "Korean War"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which city was the capital of the Byzantine Empire?",
+        "options": [
+            "Athens",
+            "Rome",
+            "Constantinople",
+            "Cairo"
+        ],
+        "answer": 2
+    }
+]

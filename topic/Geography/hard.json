@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which city is known as the highest capital in the world?",
+        "options": [
+            "Quito",
+            "Lhasa",
+            "La Paz",
+            "Kathmandu"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which U.S. state has the most active volcanoes?",
+        "options": [
+            "California",
+            "Hawaii",
+            "Alaska",
+            "Oregon"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the deepest point in the ocean?",
+        "options": [
+            "Mariana Trench",
+            "Tonga Trench",
+            "Puerto Rico Trench",
+            "Java Trench"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which country has the highest number of time zones?",
+        "options": [
+            "United States",
+            "France",
+            "Russia",
+            "China"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the longest mountain range in the world?",
+        "options": [
+            "Himalayas",
+            "Andes",
+            "Rocky Mountains",
+            "Alps"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which country is home to the world's highest permanently inhabited settlement?",
+        "options": [
+            "Nepal",
+            "Peru",
+            "Tibet (China)",
+            "Bolivia"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the only continent with land in all four hemispheres?",
+        "options": [
+            "Africa",
+            "Asia",
+            "South America",
+            "Australia"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which river has the largest drainage basin in the world?",
+        "options": [
+            "Amazon",
+            "Nile",
+            "Mississippi",
+            "Congo"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which desert is the driest place on Earth?",
+        "options": [
+            "Sahara Desert",
+            "Atacama Desert",
+            "Gobi Desert",
+            "Mojave Desert"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which country is the largest producer of coffee?",
+        "options": [
+            "Colombia",
+            "Vietnam",
+            "Ethiopia",
+            "Brazil"
+        ],
+        "answer": 3
+    }
+]

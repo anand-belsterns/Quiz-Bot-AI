@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Who is the king of the Greek gods?",
+        "options": [
+            "Zeus",
+            "Hades",
+            "Poseidon",
+            "Apollo"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "In Norse mythology, what is the name of Thor’s hammer?",
+        "options": [
+            "Excalibur",
+            "Mjolnir",
+            "Gungnir",
+            "Stormbreaker"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which Roman god is equivalent to the Greek god Ares?",
+        "options": [
+            "Mercury",
+            "Mars",
+            "Neptune",
+            "Vulcan"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the name of the river that souls must cross to enter the underworld in Greek mythology?",
+        "options": [
+            "Styx",
+            "Lethe",
+            "Acheron",
+            "Phlegethon"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Who is the Egyptian god of the sun?",
+        "options": [
+            "Anubis",
+            "Thoth",
+            "Ra",
+            "Osiris"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which goddess was born from the sea foam?",
+        "options": [
+            "Artemis",
+            "Hera",
+            "Athena",
+            "Aphrodite"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the name of the Norse tree that connects the nine worlds?",
+        "options": [
+            "Yggdrasil",
+            "Asgard",
+            "Bifrost",
+            "Midgard"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "In Greek mythology, who is the god of war?",
+        "options": [
+            "Hermes",
+            "Apollo",
+            "Ares",
+            "Hades"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Who is the mother of Perseus?",
+        "options": [
+            "Hera",
+            "Danaë",
+            "Andromeda",
+            "Medusa"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What was the name of the winged horse in Greek mythology?",
+        "options": [
+            "Pegasus",
+            "Chimera",
+            "Cerberus",
+            "Griffin"
+        ],
+        "answer": 0
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which is the longest river in the world?",
+        "options": [
+            "Amazon",
+            "Nile",
+            "Mississippi",
+            "Yangtze"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Who invented the telephone?",
+        "options": [
+            "Thomas Edison",
+            "Alexander Graham Bell",
+            "Nikola Tesla",
+            "Isaac Newton"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the boiling point of water in Celsius?",
+        "options": [
+            "90°C",
+            "100°C",
+            "120°C",
+            "80°C"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which planet is closest to the Sun?",
+        "options": [
+            "Venus",
+            "Earth",
+            "Mercury",
+            "Mars"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "How many bones are there in the adult human body?",
+        "options": [
+            "204",
+            "206",
+            "208",
+            "210"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Who was the first person to walk on the moon?",
+        "options": [
+            "Buzz Aldrin",
+            "Neil Armstrong",
+            "Yuri Gagarin",
+            "Michael Collins"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which country is the largest in the world by area?",
+        "options": [
+            "Canada",
+            "China",
+            "Russia",
+            "United States"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the name of the largest ocean?",
+        "options": [
+            "Atlantic",
+            "Indian",
+            "Arctic",
+            "Pacific"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which desert is the largest in the world?",
+        "options": [
+            "Sahara",
+            "Gobi",
+            "Kalahari",
+            "Antarctic"
+        ],
+        "answer": 3
+    }
+]

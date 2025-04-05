@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What does GDP stand for?",
+        "options": [
+            "Gross Domestic Product",
+            "General Domestic Profit",
+            "Global Development Plan",
+            "Gross Development Profit"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which type of market structure has only one seller?",
+        "options": [
+            "Monopoly",
+            "Oligopoly",
+            "Perfect Competition",
+            "Monopolistic Competition"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the basic economic problem that arises due to limited resources?",
+        "options": [
+            "Demand",
+            "Scarcity",
+            "Inflation",
+            "Recession"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which company is known for revolutionizing e-commerce?",
+        "options": [
+            "Walmart",
+            "Amazon",
+            "eBay",
+            "Alibaba"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is a type of business ownership?",
+        "options": [
+            "Sole Proprietorship",
+            "Budgeting",
+            "Inflation",
+            "Monopoly"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What does ROI stand for in business?",
+        "options": [
+            "Return on Investment",
+            "Rate of Income",
+            "Revenue of Industry",
+            "Return on Interest"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is an entrepreneur?",
+        "options": [
+            "A government official",
+            "An employee in a company",
+            "A person who starts a business",
+            "A type of investor"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of a business plan?",
+        "options": [
+            "To hire employees",
+            "To outline business goals and strategies",
+            "To file taxes",
+            "To increase production"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of these is an example of a fixed cost in a business?",
+        "options": [
+            "Raw materials",
+            "Electricity bill",
+            "Employee wages",
+            "Rent"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which economic system is based on private ownership and free markets?",
+        "options": [
+            "Socialism",
+            "Capitalism",
+            "Communism",
+            "Barter System"
+        ],
+        "answer": 1
+    }
+]
